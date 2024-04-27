@@ -1,0 +1,1 @@
+This Flutter Todo List App is designed to help users organize their tasks efficiently and stay on top of their daily activities. It provides a simple and intuitive interface for creating, managing, and tracking tasks effortlessly.
